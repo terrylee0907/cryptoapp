@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/65441598/160762804-98645e40-74f3-4e43-8518-1c6977d16222.png)
+
+React best practices, State Management using Redux Toolkit, UI Creation using Ant Design, creating charts using Chart.js, and fetching data from multiple sources using RapidAPI while building the best Cryptocurrency App
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
